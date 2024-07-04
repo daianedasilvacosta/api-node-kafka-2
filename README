@@ -1,0 +1,20 @@
+# Link de ajuda referencia
+https://www.youtube.com/watch?v=wdsiQEa5mQY
+
+# instale as dependencias no terminal
+    npm install express
+    npm install kafka-node
+    npm install pg
+    npm install pg-hstore
+    npm install sequelize
+
+# instale a extencao no vscode
+
+mongodb para vscode
+docker
+thunder client
+database client
+kafka
+
+# ainda falta conectar o banco com as APIs
+# essa parte falta arrumar
