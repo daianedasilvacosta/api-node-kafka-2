@@ -16,5 +16,7 @@ thunder client
 database client
 kafka
 
+# no terminal para pacotes node 
+npm init -y
 # ainda falta conectar o banco com as APIs
 # essa parte falta arrumar
